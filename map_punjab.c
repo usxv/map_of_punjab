@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
+//getch() function is used multiple times in this code for the purpose of presentation remove "getch();" if you don't want to wait for a key press in your code.
 // Function to perform linear search
 int linearSearch(char places[][50], int n, char target[])
 {
@@ -82,7 +83,7 @@ int main()
         getch();
         return 1;
     }
-    // Array Cities for comaparing the input city of user with the availbale list of cities
+    // Using result(index value of destination) from the linear search and using it as the input
     switch (result)
     {
     case 0:
@@ -90,6 +91,7 @@ int main()
         char city[100];
         int distance;
         FILE *fp;
+        //opening amritsar distance values taking Amritsar as the center point
         fp = fopen("./database/city_amr.txt", " r");
         while (fscanf(fp, "%s %d", &city, &distance) == 2)
         {
