@@ -1,4 +1,5 @@
-**********map_of_punjab************
+**********Project: map_of_punjab**********
+
 I have created a project that focuses on 10 cities in the Punjab region. The project includes several key components: 
 
 1. I used ASCII art to create a visual map of these cities.
