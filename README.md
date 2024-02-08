@@ -20,7 +20,7 @@ Now, here's where the switch case comes into play:
 
 This approach ensures that the distances are accurately determined, taking into account Google Maps data for precision.
 **************Code credits: Suraj, Simran & Sumit**************
-********************************************************CHANGELOG*********************************************************
-Updated panjab map file so if you want to use this project download "panjabmapv2.c" and "panjabmapv2.exe" along with the "database" folder for the program to work properly!!! 
-If downloaded as a zip delete the old files named "a.exe" & "map_punjab.c"
+CHANGELOGS:
+- Updated panjab map file so if you want to use this project download "panjabmapv2.c" and "panjabmapv2.exe" along with the "database" folder for the program to work properly!!! 
+- If downloaded as a zip delete the old files named "a.exe" & "map_punjab.c"
 
