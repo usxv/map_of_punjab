@@ -1,0 +1,10 @@
+Amritsar 172
+Bathinda 53
+Barnala 115
+Muktsar 0 
+Firozpur 69
+Hoshiarpur 209
+Jalandhar 162
+Ludhiana 148
+Mohali 241
+Patiala 206
